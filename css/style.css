@@ -4,9 +4,7 @@
 }
 
 body{
-    /* background-image: url(https://i.pinimg.com/originals/42/3e/75/423e752b884436e49d645763f6d784dc.jpg); */
     background-size: cover;
-    /* background-color: cornflowerblue; */
 }
 
 form{
@@ -46,95 +44,3 @@ button{
     /* margin-left: 400px; */
     color: darkred;
 }
-
-
-/* @media(max-width:640px){
-    body{
-        background-image: url(https://64.media.tumblr.com/cfce17fc4d933680ba0f49a9a39ef541/414bbd847960e773-d4/s1280x1920/0378c7689017c6728089c1ae57a1977b7213f329.jpg);
-    }
-    .foot{
-        margin-left: 200px;
-    }
-}
-
-@media(max-width:388px){
-    body{
-        background-image: url(https://i.pinimg.com/originals/b4/69/35/b46935edb62bcc4fbabb6d17dab689a0.jpg);
-    }
-    .foot{
-        margin-left: 90px;
-    }
-}
-
-@media(max-width:360px){
-    body{
-        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT48g0NcbCl70K3jd8lZDsVBPQZcfJUXORNMw&usqp=CAU);
-    }
-}
-
-@media(max-width:411px){
-    body{
-        background-image: url(https://i.pinimg.com/originals/b4/69/35/b46935edb62bcc4fbabb6d17dab689a0.jpg);
-    }
-    .foot{
-        margin-left: 190px;
-    }
-}
-@media(max-width:320px){
-    body{
-        background-image:url(https://i.pinimg.com/originals/b4/69/35/b46935edb62bcc4fbabb6d17dab689a0.jpg);
-    }
-    .foot{
-        margin-left: 150px;
-    }
-}
-@media(max-width:375px){
-    body{
-        background-image: url(https://i0.wp.com/i.pinimg.com/originals/9d/09/f4/9d09f4194929724f587db26c529d1469.jpg);
-    }
-    .foot{
-        margin-left: 100px;
-    }
-}
-
-@media(max-width:414px){
-    body{
-        background-image: url(https://wallpapercave.com/wp/wp5972382.jpg);
-    }
-    .foot{
-        margin-left: 100px;
-    }
-}
-
-@media(max-width:768px){
-    body{
-        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnn6BVkpGOdDiGOCMlnXkDV7YamsN843Deg&usqp=CAU);
-    }
-    .foot{
-        margin-left: 250px;
-    }
-}
-    @media(max-width:280px){
-        body{
-            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7cyq6X8pnyOTjZvMYp2sh9OZ1Xdd3gJSph48gj35X5pVVWKRyxIOA7UetF2C_NA-YSY&usqp=CAU);
-        }
-       
-}
-
-@media(max-width:1024px){
-    body{
-        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnn6BVkpGOdDiGOCMlnXkDV7YamsN843Deg&usqp=CAU);
-    }
-    .foot{
-        margin-left:600px;
-    }
-}
-
-@media(max-width:540px){
-    body{
-        background-image: url(https://i.pinimg.com/originals/d7/36/25/d73625f7c58361918d191b00cc9422b1.jpg);
-    }
-    .foot{
-        margin-left:200px;
-    }
-} */
