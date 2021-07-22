@@ -20,11 +20,13 @@ $(document).ready(function(){
 
 
       let count=0;
+      let target=5;
       $('input[type="checkbox"]').on('change',function(){
         if($(this).prop('checked')==true){
           count++;
-          if(count==5){
-            alert('Congrats! You have completed 5 tasks!');
+          if(count==target){
+            alert(`Congrats! You have completed ${target} tasks!`);
+            target = target + 5;
           }
         }
         else{
