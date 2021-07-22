@@ -21,7 +21,7 @@ $(document).ready(function(){
 
     else if ($("#user").val()=="admin" && $("#password").val()=="12345") {
       setTimeout(function() {
-        $("p").html("<h5> Success</h5>")
+        $("p").html("<h5>Redirecting to ToDo List</h5>")
       },2000);
       $("p").css("color:green")
 
